@@ -1,0 +1,8 @@
+{
+    "commands":{
+        "checkForUpdates":"cd ../frontend/ && git remote update && sudo git status -uno",
+        "pullAndBuild":"cd ../frontend/ && sudo git pull && sudo npm install  && sudo quasar build"
+    },
+    "searchString":"Your branch is behind",
+    "checkEvery":30000
+}
