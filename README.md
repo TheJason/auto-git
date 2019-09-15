@@ -1,4 +1,4 @@
-# git-puller
+# auto-git
 I needed a little script to check for git updates, and then to pull, install, and build my various apps.  And this is what I came up with.  The end result is a pretty powerfull little app for running command line scripts from within node.
 
 # Purpose
